@@ -1,2 +1,4 @@
 # DLND
-Deep Learning Nano Degree notes and projects
+Deep Learning Nano Degree:
+
+<img src="nanodegree_amansingh.PNG">
